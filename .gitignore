@@ -1,2 +1,3 @@
-dns-proxy.iml
+.gradle/
 .idea/
+dns-proxy.iml
